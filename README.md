@@ -1,5 +1,6 @@
 # DropletEvapModel
 Simple kinetic model of isothermal continuous evaporation from a sphere
+Used in: https://pubs.acs.org/doi/10.1021/acs.analchem.0c02343
 
 Inputs: 
 
